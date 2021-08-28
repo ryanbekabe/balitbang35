@@ -1,0 +1,23 @@
+body {
+	background: whiteSmoke;
+	padding: 20px 0px;
+}
+.page {
+	background: white;
+	border-radius: 5px;
+	padding: 2px;
+}
+.page_title {
+	padding: 10px 20px;
+	background: #8DC8F9;
+	color: white;
+	border-radius: 5px 5px 0px 0px;
+	border-bottom: 2px solid white;
+}
+.page_content {
+	padding: 10px 20px;
+}
+.page_footer {
+	padding: 10px 20px;
+	border-radius: 0px 0px 5px 5px;
+}
